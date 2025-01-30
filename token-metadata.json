@@ -1,7 +1,7 @@
 {
   "name": "BELOV",
   "symbol": "BLV",
-  "uri": "https://example.com/token-metadata.json",
+  "uri": "https://github.com/kirill-a-belov/belov_token/blob/main/token-metadata.json",
   "decimals": 0,
   "issuer": "kirill.a.belov@gmail.com",
   "description": "$BELOV is just another meme coin. Inspired by $TRUMP.",
