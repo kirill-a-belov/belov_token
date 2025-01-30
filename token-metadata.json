@@ -1,0 +1,12 @@
+{
+  "name": "BELOV",
+  "symbol": "BLV",
+  "uri": "https://example.com/token-metadata.json",
+  "decimals": 0,
+  "issuer": "kirill.a.belov@gmail.com",
+  "description": "$BELOV is just another meme coin. Inspired by $TRUMP.",
+  "supply": "3000000",
+  "type": "fungible",
+  "seller_fee_basis_points": 0,
+  "creators": []
+}
