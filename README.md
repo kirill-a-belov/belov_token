@@ -1,4 +1,4 @@
-**# $BELOV Token Metadata Storage
+# $BELOV Token Metadata Storage
 
 **$BELOV** is a Solana token project with metadata storage, designed for experimentation and learning in blockchain development.  
 The repository stores token metadata and provides references for on-chain exploration.
